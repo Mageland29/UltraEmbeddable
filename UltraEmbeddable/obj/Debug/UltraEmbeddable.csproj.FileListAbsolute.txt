@@ -1,0 +1,9 @@
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\obj\Debug\UltraEmbeddable.csprojAssemblyReference.cache
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\obj\Debug\UltraEmbeddable.csproj.CoreCompileInputs.cache
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\bin\Debug\UltraEmbeddable.exe.config
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\bin\Debug\UltraEmbeddable.exe
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\bin\Debug\UltraEmbeddable.pdb
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\bin\Debug\dnlib.dll
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\obj\Debug\UltraEmbeddable.csproj.CopyComplete
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\obj\Debug\UltraEmbeddable.exe
+C:\Users\PCGame\Documents\GitHub\UltraEmbeddable\UltraEmbeddable\obj\Debug\UltraEmbeddable.pdb
